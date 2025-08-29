@@ -1,0 +1,5 @@
+float(input("10: "))
+float(input("5: "))
+print(f"{10} + {5} = {15}")
+print(f"{10} - {5} = {5}")
+print(f"{10} * {5} = {50}")
